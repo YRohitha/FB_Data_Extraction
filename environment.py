@@ -1,6 +1,10 @@
-***
-Author: @rohitha
-***
+
+# -*- coding: utf-8 -*-
+"""
+* Usage: 
+* Programming Language: Python 3
+* Author: Rohitha
+"""
 
 import urllib3
 import requests
