@@ -6,3 +6,4 @@ Extracting Public Data from Social Media Platforms - Facebook, Youtube using API
 
 * # References: 
   * https://medium.com/rakuten-rapidapi/top-10-social-media-apis-twitter-facebook-instagram-and-many-more-5c13262c61fe
+  * Instagram API Docs: https://developers.facebook.com/docs/instagram-api/guides/business-discovery
