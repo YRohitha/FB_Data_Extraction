@@ -14,6 +14,6 @@ import facebook
 # Define and store the app access token
 token = '358277422600848|p8eUodQrk5Yvvy629lIYCv3H1qM'
 
-# 
+# Use Graph API and pass active user token, to access and retrieve data 
 graph = facebook.GraphAPI(access_token=token, version = 13.0)
 events = graph.request('/me?fields= id, name, likes')
